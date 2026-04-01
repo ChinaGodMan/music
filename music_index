@@ -2,4 +2,4 @@
   find . -type f \( -iname "*.mp3" -o -iname "*.flac" -o -iname "*.wav" -o -iname "*.m4a" -o -iname "*.aac" -o -iname "*.ogg" \) ! -path "*ringtone*" -printf "%f\n" | sort
   echo "----"
   echo "总数: $(find . -type f \( -iname "*.mp3" -o -iname "*.flac" -o -iname "*.wav" -o -iname "*.m4a" -o -iname "*.aac" -o -iname "*.ogg" \) ! -path "*ringtone*" -printf "%f\n" | wc -l)"
-) | tee readme.md
+) | tee readme.txt
