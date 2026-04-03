@@ -1,5 +1,32 @@
-(
+#!/bin/bash
+
+OUTPUT_LOCAL="./readme.txt"
+GIT_DIR="/storage/emulated/0/Download/gitrepos/music"
+OUTPUT_GIT="$GIT_DIR/readme.txt"
+
+generate_list() {
   find . -type f \( -iname "*.mp3" -o -iname "*.flac" -o -iname "*.wav" -o -iname "*.m4a" -o -iname "*.aac" -o -iname "*.ogg" \) ! -path "*ringtone*" -printf "%f\n" | sort
   echo "----"
   echo "总数: $(find . -type f \( -iname "*.mp3" -o -iname "*.flac" -o -iname "*.wav" -o -iname "*.m4a" -o -iname "*.aac" -o -iname "*.ogg" \) ! -path "*ringtone*" -printf "%f\n" | wc -l)"
-) | tee readme.txt
+}
+
+if [ "$1" = "git" ]; then
+  echo "写入仓库并提交..."
+
+  generate_list | tee "$OUTPUT_GIT"
+
+  cd "$GIT_DIR" || exit
+
+  git add -A
+
+if ! git diff --quiet; then
+  echo "🚀 检测到变化，开始提交"
+  git add -A
+  git commit -m "docs(readme): 更新歌曲"
+  git push
+fi
+
+else
+  echo "仅生成本地文件..."
+  generate_list | tee "$OUTPUT_LOCAL"
+fi
