@@ -1,4 +1,4 @@
-总数: 820
+总数: 848
 ----
 A - Something's Going On.flac
 ALEXEMELYA、Maga - Sueta.flac
@@ -6,6 +6,7 @@ AREZ - LaLa.flac
 Achim Reichel - Aloha Heja He.flac
 Activ - DOAR CU TINE.flac
 Adele - Rolling in the Deep.flac
+Adele - Set Fire to the Rain.flac
 Akon - Right Now (Na Na Na).flac
 Alan Aztec、Karate - Russian Friend (feat. Karate).flac
 Alan Aztec、Karate - This Is Russia (feat. Karate).flac
@@ -96,6 +97,7 @@ GARNiDELiA - 極楽浄土.flac
 GOBI PROJECT - 敖嫩河畔.mp3
 GavinC、Yvonne - Spark pure power.flac
 Groove Coverage - Far Away From Home.flac
+Groove Coverage - She.flac
 Gullia - Oops J'Aime Pas L'Anglais !.flac
 Hiko - Love Story Cover.flac
 Hillsong Young & Free - Wake (Live).flac
@@ -210,6 +212,7 @@ T-ara - DAY BY DAY.flac
 T.R.Y - 不是因为寂寞才想你.flac
 T.R.Y. - 不是因为寂寞才想你.flac
 T.R.Y. - 不要在我寂寞的时候说爱我.flac
+T.R.Y. - 我们的歌谣.mp3
 Tanir & Tyomcha - Да да да (Jarico Remix).flac
 Taylor Swift - Love Story.flac
 The Chainsmokers、Coldplay - Something Just Like This.flac
@@ -274,6 +277,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 伯爵Johnny、唐伯虎Annie - 伯虎说 (feat.唐伯虎Annie) 无鼠来宝版.flac
 侃侃 - 嘀嗒.flac
 信乐团 - 死了都要爱.flac
+六哲 - 多情的人总被无情的伤.flac
 六哲 - 被伤过的心还可以爱谁.flac
 六哲、陈娟儿 - 错错错.flac
 六月 - 囧架架.flac
@@ -345,6 +349,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 周笔畅 - 最美的期待.flac
 周笔畅 - 笔记.flac
 唐磊 - 丁香花.flac
+四个女生 - 心愿.flac
 夏天Alex - 不再联系.flac
 夏天Alex - 很爱很爱的.flac
 夏天播放 - 小宝贝.flac
@@ -405,7 +410,9 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 崔一乔music - 未给姐姐寄出的信—崔一乔（cover赵雷）.MP3
 崔一乔music - 让我偷偷看你—崔一乔（作词越阳）.MP3
 崔一乔music - 鼓楼—崔一乔（cover赵雷）.MP3
+崔健 - 假行僧.flac
 崔子格 - 卜卦.flac
+常艾非 - 不配说爱我.flac
 庄心妍 - 真的不容易.flac
 庄心妍、祁隆 - 一万个舍不得.flac
 庞龙 - 两只蝴蝶.flac
@@ -421,6 +428,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 张国荣 - 明月夜.flac
 张学友 - 吻别.flac
 张学友 - 遥远的她.flac
+张宇 - 单恋一枝花.flac
 张宇 - 月亮惹的祸.flac
 张宇 - 用心良苦.flac
 张宇 - 雨一直下.flac
@@ -460,7 +468,9 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 慕容晓晓 - 黄梅戏.flac
 戈壁计划、海木 - 敖嫩河畔_ONON RIVERSIDE.flac
 戎祥 - 浮沉的兄弟.flac
+成龙 - 油菜花.flac
 成龙 - 醉拳.flac
+成龙、郭麒麟 - 真心英雄.flac
 成龙、金喜善 - 美丽的神话Ⅰ.flac
 战士歌舞团 - 十送红军.flac
 戴爱玲 - 沸腾.flac
@@ -494,15 +504,18 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 李智 - 丽江.mp3
 李柄桦 - so weak（正版）.flac
 李浩瑞 - 西部猎人.mp3
+李玉刚 - 万疆.flac
 李玉刚 - 刚好遇见你.flac
 李玉刚 - 新贵妃醉酒.mp3
 李玉刚 - 清明上河图.flac
 李玲玉 - 东南西北风.flac
 李琛 - 窗外.flac
 李翊君 - 雨蝶.flac
+李翊君 - 风中的承诺.flac
 李翊君、李富兴 - 萍聚.flac
 杜歌 - 兄弟难当.flac
 杨千嬅 - 处处吻.flac
+杨千嬅 - 小城大事.flac
 杨千嬅、任贤齐 - 花好月圆夜(国).flac
 杨坤 - 空城.flac
 杨坤、郭采洁 - 答案.flac
@@ -542,6 +555,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 汪峰 - 光明.flac
 汪峰 - 怒放的生命.flac
 汪峰 - 春天里.flac
+汪峰 - 飞得更高.flac
 汪明荃 - 万水千山总是情.flac
 汪睿 - 桃花笑.flac
 汪苏泷 - 不分手的恋爱.flac
@@ -605,6 +619,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 甫平 - 小时候.flac
 甫平 - 相爱.flac
 白允y、杨李鑫 - 勇敢爱.flac
+盛哲 - 在你的身边.flac
 真栗 - 月亮船.flac
 秋野 - 远方的姑娘我想念你 你可知道.flac
 程佳佳 - 山楂树之恋.flac
@@ -614,12 +629,14 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 约里、沙玛阿呷 - 树涝河畔的恋人.flac
 罗大佑 - HuanghouDadaoDong.flac
 罗大佑 - 你的样子.flac
+罗大佑 - 光阴的故事.flac
 罗大佑 - 恋曲1990.flac
 罗大佑 - 童年.flac
 罗文、甄妮 - 铁血丹心.flac
 罗琦 - 我相信 (Live).flac
 罗百吉 - 我怀念你.flac
 群星 - 一个人的寂寞两个人的错.flac
+群星 - 北京的金山上.flac
 群星 - 意大利女生慢摇.mp3
 群星 - 我们走在大路上.flac
 群星 - 摇摆旅程 Rocking journey.flac
@@ -682,6 +699,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 费玉清 - 一剪梅.flac
 费玉清 - 千里之外.flac
 费玉清 - 南屏晚钟.flac
+费玉清 - 梦驼铃.flac
 费翔 - 冬天里的一把火.mp3
 赵咏华 - 最浪漫的事.flac
 赵英俊 - 大王叫我来巡山.flac
@@ -694,6 +712,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 赵雷 - 南方姑娘.flac
 赵雷 - 夏天.mp3
 赵雷 - 小屋.flac
+赵雷 - 少年锦时.flac
 赵雷 - 成都.flac
 赵雷 - 我们的时光.flac
 赵雷 - 我记得.flac
@@ -719,11 +738,13 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 邓丽君 - 北国之春 (日文).flac
 邓丽君 - 大阪しぐれ.flac
 邓丽君 - 小城故事.flac
+邓丽君 - 往事只能回味.flac
 邓丽君 - 我只在乎你.flac
 邓丽君 - 時の流れに身をまかせ.flac
 邓丽君 - 月亮代表我的心.flac
 邓丽君 - 漫步人生路(粤语).flac
 邓丽君 - 漫步人生路.flac
+邓丽君 - 路边的野花不要采.flac
 邓丽君 - 阿里山的姑娘.flac
 邓洁仪 - 路灯下的小姑娘.flac
 邓玉华 - 映山红.flac
@@ -751,6 +772,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 阿吉太组合 - 阿衣莫.flac
 阿库诗薇、约里 - 听见风来自遥远的故乡.flac
 阿木 - 有一种爱叫做放手.flac
+阿木宇梅 - 结果.flac
 阿牛 - 桃花朵朵开.flac
 阿肆 - 热爱105℃的你.flac
 阿里郎 - 兰花指.flac
@@ -768,6 +790,9 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 陈慧娴 - 千千阙歌.flac
 陈慧娴 - 飘雪.flac
 陈慧琳 - 不如跳舞.flac
+陈慧琳 - 不得了.flac
+陈慧琳 - 今生你作伴.flac
+陈慧琳 - 希望.flac
 陈慧琳 - 花花宇宙.flac
 陈慧琳、郑中基 - 都是你的错.flac
 陈旭 - 哥 只是个传说.flac
@@ -793,6 +818,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 韩宝仪 - 舞女泪.flac
 韩宝仪 - 酒醉的探戈.flac
 韩磊 - 向天再借五百年.flac
+韩红 - 北京的金山上.flac
 音阙诗听、赵方婧 - 芒种.flac
 音频怪物 - 长恨歌第一章.mp3
 顾峰、斯琴高丽 - 犯错.flac
@@ -815,6 +841,8 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 黄灿 - 康定情歌.flac
 黄雅莉 - 蝴蝶泉边.flac
 黄鹤翔 - 九妹.flac
+黄龄 - HIGH歌.flac
+黄龄 - 痒.flac
 龍猛寺寬度 - 武家坡2021.flac
 龙梅子、王强 - 你把爱情给了谁.flac
 龙飘飘 - 惜别的海岸(修复版).flac
