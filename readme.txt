@@ -1,4 +1,4 @@
-总数: 848
+总数: 852
 ----
 A - Something's Going On.flac
 ALEXEMELYA、Maga - Sueta.flac
@@ -19,6 +19,7 @@ Alexandra Stan - ALL MY PEOPLE [EXTENDED VERSION].flac
 Aneela、Arash - Boro Boro (feat. Aneela - Indian Version).mp3
 Asher Monroe - Here With You.flac
 Austin Mahone、Rich Homie Quan - Send It (feat. Rich Homie Quan).flac
+Ava Max - Sweet but Psycho.flac
 Avicii、Aloe Blacc - Wake Me Up.flac
 Avicii、Martin Garrix、Simon Aldred - Waiting For Love (Live).flac
 Avicii、Rita Ora - Lonely Together.flac
@@ -358,6 +359,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 夏小虎 - 旧时光.flac
 夏小虎 - 逝年.flac
 大张伟 - 倍儿爽.flac
+大张伟 - 阳光彩虹小白马.flac
 大橋卓弥 - ありがとう.flac
 天空 - 我可以抱你吗-孟根花.flac
 威仔、阿夏 - 不爱又何必纠缠.flac
@@ -546,6 +548,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 梦然 - 少年.flac
 梦然 - 没有你陪伴真的好孤单.flac
 毛不易 - 像我这样的人.flac
+毛宁、杨钰莹 - 心雨.flac
 毛阿敏 - 同一首歌.flac
 水木年华 - 一生有你.flac
 水木年华 - 启程.flac
@@ -564,6 +567,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 沈春阳、小沈阳 - 都要好好的 (Single Version).flac
 沐月 - Sunshine Girl.flac
 洛桑甲措 - 守候.flac
+海鸣威 - 一个人的北京.flac
 清秋秋 - 探清水河（Cover 豆子糖）.mp3
 温岚 - 囚鸟 (Live).flac
 游鸿明 - 爱我的人和我爱的人.flac
