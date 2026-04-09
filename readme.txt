@@ -1,12 +1,14 @@
-总数: 852
+总数: 866
 ----
 A - Something's Going On.flac
 ALEXEMELYA、Maga - Sueta.flac
 AREZ - LaLa.flac
 Achim Reichel - Aloha Heja He.flac
 Activ - DOAR CU TINE.flac
+Adele - Hello.flac
 Adele - Rolling in the Deep.flac
 Adele - Set Fire to the Rain.flac
+Adele - Someone Like You.flac
 Akon - Right Now (Na Na Na).flac
 Alan Aztec、Karate - Russian Friend (feat. Karate).flac
 Alan Aztec、Karate - This Is Russia (feat. Karate).flac
@@ -65,6 +67,7 @@ DJ Bobo - I'm Living to Love You.flac
 DJ Bobo - La Vida Es (Radio Version).flac
 DJ HieuHaoHoa - Phai Dấu Cuộc Tình Vinahouse.mp3
 DJ KAI - 摩天轮 Mo Tian Lun(KAI Mix).flac
+DJ KAJJIN、MIMI - Take my hand (Freddy@Disco Radio Edit).flac
 DJ Maxwell、Vivian B. - VIVI NELL'ARIA(Extended).flac
 DJ Timeline - I Just Want To (Chuck Lepley Remix).flac
 DJ.Mr.李 - Ngoi Tua Man Thuyen越南鼓.flac
@@ -81,6 +84,7 @@ Dua Lipa - Don't Start Now.flac
 Ed Sheeran - Shape of You.flac
 Eddy Wata - La bomba (Radio edit).flac
 Erdenechimeg G - Khongor Ur Mini.flac
+FORMOSA - 前世今生.flac
 Faustix、Shannon Rani - Crying In The Sun.flac
 First Blood - DJ小可 - 蹦吧啦 Bo Ba La.flac
 Flo Rida - Whistle.flac
@@ -204,6 +208,7 @@ Shakira、Freshlyground - Waka Waka (This Time for Africa).flac
 Sia - Move Your Body.flac
 Sia - Unstoppable.flac
 Sixteen - 我本将心向明月 (DJ版).mp3
+Smile. DK - Golden Sky.flac
 Starclub - CHIKI CHIKI.flac
 Starclub - CHIKI CHIKI.mp3
 Sweetbox - Dont Push Me.flac
@@ -218,6 +223,7 @@ Tanir & Tyomcha - Да да да (Jarico Remix).flac
 Taylor Swift - Love Story.flac
 The Chainsmokers、Coldplay - Something Just Like This.flac
 The Marías - Jupiter.flac
+The Script、will.i.am - Hall of Fame.flac
 The Ting Tings - That's Not My Name.flac
 The Verkkars - EZ4ENCE (kannatuslaulu).flac
 The xx - Intro.flac
@@ -249,6 +255,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 แนนซี่ ท็อปไลน์ - แม่ให้มาแค่นี้.flac
 あいみょん - 生きていたんだよな.flac
 一朵云乐队、约里 - 山楂坪的秋天来客人了.flac
+丁当 - 我爱他.flac
 丁当 - 漂洋过海来看你.flac
 丁当 - 猜不透.flac
 七朵组合 - 咏春.flac
@@ -363,6 +370,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 大橋卓弥 - ありがとう.flac
 天空 - 我可以抱你吗-孟根花.flac
 威仔、阿夏 - 不爱又何必纠缠.flac
+孙子涵 - 唐人.mp3
 孙悦 - 大家一起来.flac
 孙燕姿 - 第一天.flac
 孙燕姿 - 绿光.flac
@@ -375,6 +383,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 宋冬野 - 安和桥.flac
 宋冬野 - 斑马，斑马.flac
 宋祖英 - 大地飞歌.flac
+宋祖英 - 茉莉花.flac
 宋祖英、周杰伦 - 山歌好比春江水.多谢了(Live).flac
 寂寞的刹那 - 人民军队忠于党（1960）.flac
 小居居 - 越南电鼓,上劲你得摇.flac
@@ -470,6 +479,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 慕容晓晓 - 黄梅戏.flac
 戈壁计划、海木 - 敖嫩河畔_ONON RIVERSIDE.flac
 戎祥 - 浮沉的兄弟.flac
+成龙 - 壮志在我胸.flac
 成龙 - 油菜花.flac
 成龙 - 醉拳.flac
 成龙、郭麒麟 - 真心英雄.flac
@@ -618,6 +628,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 王菲 - 红豆.flac
 王菲、那英 - 岁月.flac
 王资淳 - 特别的爱给特别的你 (我付出一生的时间).flac
+王麟 - 我爱你.flac
 王麟、老猫 - 伤不起.flac
 甫平 - 信仰.flac
 甫平 - 小时候.flac
@@ -690,6 +701,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 许冠杰 - 沉默是金.flac
 许嵩、莫诗旎 - 你若成风.mp3
 许巍 - 像风一样自由.flac
+许巍 - 故乡.flac
 许巍 - 曾经的你.flac
 许巍 - 蓝莲花.flac
 许鹤缤 - 我爱这蓝色的海洋.mp3
@@ -754,6 +766,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 邓玉华 - 映山红.flac
 邝美云 - 最浪漫的事.flac
 那英 - 征服.flac
+那英 - 珊瑚颂 (Live).flac
 那英 - 白天不懂夜的黑 (Live版).flac
 那英 - 白天不懂夜的黑.flac
 那英 - 青花瓷 (2015中国好声音第四季：导师开场秀现场).mp3
@@ -822,6 +835,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 韩宝仪 - 舞女泪.flac
 韩宝仪 - 酒醉的探戈.flac
 韩磊 - 向天再借五百年.flac
+韩磊 - 走四方.flac
 韩红 - 北京的金山上.flac
 音阙诗听、赵方婧 - 芒种.flac
 音频怪物 - 长恨歌第一章.mp3
