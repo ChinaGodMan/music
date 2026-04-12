@@ -1,4 +1,4 @@
-总数: 866
+总数: 872
 ----
 A - Something's Going On.flac
 ALEXEMELYA、Maga - Sueta.flac
@@ -56,6 +56,7 @@ Cathy月月 - 武家坡 (2022).flac
 Christine Welch - 一百万个可能.flac
 Colbie Caillat - Try.flac
 Craig David - Insomnia.flac
+Céline Dion - My Heart Will Go On (Love Theme from _Titanic_).flac
 Công Quốc - Thêm Một Lần Đau.mp3
 DEAMN - Dangerous.flac
 DEAMN - Ocean.flac
@@ -77,11 +78,13 @@ DR阿旺旦巴 - Menchu Bum.mp3
 Daddy Yankee - Dura.flac
 Dan Balan、Tany Vander、Brasco - Lendo Calendo.flac
 Daniel Powter - Free Loop.flac
+Daze - Superhero (Album Version).flac
 Deep Side - Booty Music.flac
 Delacey - Dream It Possible.flac
 Demi Lovato - Let It Go.flac
 Dua Lipa - Don't Start Now.flac
 Ed Sheeran - Shape of You.flac
+Eddy Wata - In Your Mind.flac
 Eddy Wata - La bomba (Radio edit).flac
 Erdenechimeg G - Khongor Ur Mini.flac
 FORMOSA - 前世今生.flac
@@ -187,6 +190,7 @@ Pháo、KAIZ - 2 Phút Hơn (KAIZ Remix).flac
 Piano Fantasia - Song for Denise (Maxi version).flac
 Pitbull、Kesha - Timber.flac
 Poju - Poika Saunoo.flac
+Prezioso、Marvin - Let's Talk About a Man (Radio Version).flac
 Psaxxx - Dead Eyes.flac
 Queen - Bohemian Rhapsody.flac
 R.I.O. - Like I Love You.flac
@@ -522,6 +526,8 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 李玉刚 - 清明上河图.flac
 李玲玉 - 东南西北风.flac
 李琛 - 窗外.flac
+李琦 - 金玉良缘.flac
+李翊君 - 永远永远.flac
 李翊君 - 雨蝶.flac
 李翊君 - 风中的承诺.flac
 李翊君、李富兴 - 萍聚.flac
