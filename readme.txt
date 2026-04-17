@@ -1,4 +1,4 @@
-总数: 872
+总数: 890
 ----
 A - Something's Going On.flac
 ALEXEMELYA、Maga - Sueta.flac
@@ -105,14 +105,17 @@ GARNiDELiA - 極楽浄土.flac
 GOBI PROJECT - 敖嫩河畔.mp3
 GavinC、Yvonne - Spark pure power.flac
 Groove Coverage - Far Away From Home.flac
+Groove Coverage - Moonlight Shadow.flac
 Groove Coverage - She.flac
 Gullia - Oops J'Aime Pas L'Anglais !.flac
 Hiko - Love Story Cover.flac
 Hillsong Young & Free - Wake (Live).flac
+Hoàng Thùy Linh、Binz - Kẻ Cắp Gặp Bà Già.flac
 Imagine Dragons、Broiler - Shots (Broiler Remix).flac
 Inez - Stronger.flac
 Ingrid Michaelson - Everybody.flac
 JAY-Z、Linkin Park - Numb _ Encore.flac
+JK - You Got Me Dancing.flac
 Jam - 七月上.mp3
 Jam - 差三岁.mp3
 Javkhaasaihan D、Yyriintuya D - Yunden Guuguu, Siiriimaa.flac
@@ -212,7 +215,9 @@ Shakira、Freshlyground - Waka Waka (This Time for Africa).flac
 Sia - Move Your Body.flac
 Sia - Unstoppable.flac
 Sixteen - 我本将心向明月 (DJ版).mp3
+Smile. DK - Dragonfly.flac
 Smile. DK - Golden Sky.flac
+Solid Base - This Is How We Do It.flac
 Starclub - CHIKI CHIKI.flac
 Starclub - CHIKI CHIKI.mp3
 Sweetbox - Dont Push Me.flac
@@ -224,6 +229,7 @@ T.R.Y. - 不是因为寂寞才想你.flac
 T.R.Y. - 不要在我寂寞的时候说爱我.flac
 T.R.Y. - 我们的歌谣.mp3
 Tanir & Tyomcha - Да да да (Jarico Remix).flac
+Taylor Swift - I Knew You Were Trouble..flac
 Taylor Swift - Love Story.flac
 The Chainsmokers、Coldplay - Something Just Like This.flac
 The Marías - Jupiter.flac
@@ -234,7 +240,9 @@ The xx - Intro.flac
 Timeflies、Katie Sky - Monsters.flac
 Tobu - Life.flac
 Tobu - Seven.flac
+Tom Boxer、Morena、J Warner - Deep in Love (Radio Edit).flac
 Tones and I - Dance Monkey.flac
+Toy-Box - Megamix 2000.flac
 Trouble Maker - Trouble Maker.flac
 Tungevaag - Wicked Wonderland (Radio Edit).flac
 Two Steps From Hell、Thomas Bergersen、Merethe Soltvedt - El Dorado (Dubstep Remix).flac
@@ -263,6 +271,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 丁当 - 漂洋过海来看你.flac
 丁当 - 猜不透.flac
 七朵组合 - 咏春.flac
+东来东往 - 别说我的眼泪你无所谓（原唱）.flac
 中国人民解放军合唱团 - 中国人民解放军进行曲.flac
 中国广播之友合唱团 - 歌唱祖国.mp3
 中国广播艺术团合唱团 - 三大纪律八项注意.flac
@@ -376,6 +385,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 威仔、阿夏 - 不爱又何必纠缠.flac
 孙子涵 - 唐人.mp3
 孙悦 - 大家一起来.flac
+孙悦 - 欢乐中国年.flac
 孙燕姿 - 第一天.flac
 孙燕姿 - 绿光.flac
 孙燕姿 - 遇见.flac
@@ -393,6 +403,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 小居居 - 越南电鼓,上劲你得摇.flac
 小柯、叶蓓 - 我们好像在哪见过.mp3
 小沈阳 - 大笑江湖.flac
+小沈阳;沈春阳 - 你懂得.flac
 小石头和孩子们 - 像风一样自由-小石头和孩子们 师葭希.mp3
 小虎队 - 爱.flac
 少女时代 - 소원을 말해봐 (Genie).flac
@@ -441,6 +452,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 张北北 - 拥抱你离去.flac
 张可儿 - 真心换真情.flac
 张国荣 - 明月夜.flac
+张学友 - 你好毒.flac
 张学友 - 吻别.flac
 张学友 - 遥远的她.flac
 张宇 - 单恋一枝花.flac
@@ -468,6 +480,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 徐千雅 - 彩云之南.flac
 徐小凤 - 南屏晚钟.flac
 徐小凤 - 心恋.flac
+徐小凤 - 顺流逆流.flac
 徐怀钰 - 分飞.flac
 徐怀钰 - 踏浪.flac
 徐浩 - 南向.flac
@@ -582,6 +595,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 沈以诚 - 带我走（Live）.mp3
 沈春阳、小沈阳 - 都要好好的 (Single Version).flac
 沐月 - Sunshine Girl.flac
+洋澜一 - 别说我的眼泪你无所谓.flac
 洛桑甲措 - 守候.flac
 海鸣威 - 一个人的北京.flac
 清秋秋 - 探清水河（Cover 豆子糖）.mp3
@@ -701,6 +715,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 蔡依林、周杰伦 - 布拉格广场.flac
 蔡秋凤 - 一步一脚印.flac
 蔡秋凤 - 雨水我问你.flac
+虞霞、李小龙 - 侠客行.mp3
 誓言 - 求佛.flac
 许佳慧 - 预谋.flac
 许冠杰 - 半斤八两.flac
@@ -725,6 +740,9 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 费翔 - 冬天里的一把火.mp3
 赵咏华 - 最浪漫的事.flac
 赵英俊 - 大王叫我来巡山.flac
+赵薇 - 瓶中信.flac
+赵薇 - 离别的车站.flac
+赵薇 - 齿轮.flac
 赵雷 - 三十岁的女人.flac
 赵雷 - 人家.flac
 赵雷 - 八十年代的歌.flac
