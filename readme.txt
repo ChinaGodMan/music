@@ -1,4 +1,4 @@
-总数: 890
+总数: 935
 ----
 A - Something's Going On.flac
 ALEXEMELYA、Maga - Sueta.flac
@@ -18,6 +18,7 @@ Alan Walker - Faded.flac
 Alan Walker、Noah Cyrus、Digital Farm Animals、Juliander - All Falls Down.flac
 Alex Aiono、Feder、MDZN - Lordly (feat. Alex Aiono) [MDZN Remix].flac
 Alexandra Stan - ALL MY PEOPLE [EXTENDED VERSION].flac
+Allexinno & Starchild - Joanna (Radio Edit).flac
 Aneela、Arash - Boro Boro (feat. Aneela - Indian Version).mp3
 Asher Monroe - Here With You.flac
 Austin Mahone、Rich Homie Quan - Send It (feat. Rich Homie Quan).flac
@@ -66,6 +67,7 @@ DJ Bobo - Dead or Alive.flac
 DJ Bobo - I Love My Radio.flac
 DJ Bobo - I'm Living to Love You.flac
 DJ Bobo - La Vida Es (Radio Version).flac
+DJ Fait - I've Got the Love (Radio Edit).flac
 DJ HieuHaoHoa - Phai Dấu Cuộc Tình Vinahouse.mp3
 DJ KAI - 摩天轮 Mo Tian Lun(KAI Mix).flac
 DJ KAJJIN、MIMI - Take my hand (Freddy@Disco Radio Edit).flac
@@ -86,6 +88,7 @@ Dua Lipa - Don't Start Now.flac
 Ed Sheeran - Shape of You.flac
 Eddy Wata - In Your Mind.flac
 Eddy Wata - La bomba (Radio edit).flac
+Enya - One by One.flac
 Erdenechimeg G - Khongor Ur Mini.flac
 FORMOSA - 前世今生.flac
 Faustix、Shannon Rani - Crying In The Sun.flac
@@ -108,10 +111,14 @@ Groove Coverage - Far Away From Home.flac
 Groove Coverage - Moonlight Shadow.flac
 Groove Coverage - She.flac
 Gullia - Oops J'Aime Pas L'Anglais !.flac
+HKT - Thêm Một Lần Đau.flac
+Haddaway - What Is Love_.flac
 Hiko - Love Story Cover.flac
 Hillsong Young & Free - Wake (Live).flac
 Hoàng Thùy Linh、Binz - Kẻ Cắp Gặp Bà Già.flac
+Hoàng Thùy Linh、Dtap - See Tình.flac
 Imagine Dragons、Broiler - Shots (Broiler Remix).flac
+In-Grid - I'm folle de toi (French Version).flac
 Inez - Stronger.flac
 Ingrid Michaelson - Everybody.flac
 JAY-Z、Linkin Park - Numb _ Encore.flac
@@ -126,6 +133,7 @@ John The Whistler - Wild Wild Web.flac
 Justin Bieber - Love Me.flac
 Justin Bieber、Ludacris - Baby.flac
 Justin Timberlake、Carey Mulligan、Stark Sands - Five Hundred Miles.flac
+K'naan - Wavin' Flag.flac
 Kelly Clarkson - Stronger (What Doesn't Kill You).flac
 Kesha - TiK ToK.flac
 Klubbhoppers - Electronic Life (Original Radio).flac
@@ -138,6 +146,7 @@ Led Zeppelin - Immigrant Song (Remaster).flac
 Lika - Coturo (Radio Edit).flac
 Lilly Oxford - Cheap Thrills.mp3
 Linda - 真心换真情.flac
+Linkin Park - In the End.flac
 Lollipop、Subside - Batte forte (Subside Extended Remix).flac
 Luis Fonsi、Daddy Yankee - Despacito.flac
 Luvbug - Best Is Yet To Come.flac
@@ -151,6 +160,7 @@ Marnik、Hard Lights - Butterfly.flac
 Maroon 5 - Sugar.flac
 Maroon 5、Wiz Khalifa - Payphone.flac
 Martin Garrix、Clinton Kane、Alle Farben - Drown (Alle Farben Remix).flac
+Matisyahu - One Day.flac
 Matteo - Panama.flac
 Max Oazo、Moonessa - Once Upon a Time.flac
 Miani - Tu vivi nell'aria.flac
@@ -207,6 +217,7 @@ Rnbstylerz、Arees - WHAT.flac
 Roy Jones, Jr.、Body Head Bangerz - Can't Be Touched.flac
 S.H.E - Super Star.flac
 SMiLE.dk - Golden Sky.flac
+Saka Trương Tuyền - Tình Yêu Trong Sáng.mp3
 Sarah - En God Grund.flac
 Sean Household - The Warrior Song.flac
 Sevenn - Loco Papi.flac
@@ -224,7 +235,6 @@ Sweetbox - Dont Push Me.flac
 Sweety - 樱花草.flac
 T-Pain、Ne-Yo - Turn All the Lights On.flac
 T-ara - DAY BY DAY.flac
-T.R.Y - 不是因为寂寞才想你.flac
 T.R.Y. - 不是因为寂寞才想你.flac
 T.R.Y. - 不要在我寂寞的时候说爱我.flac
 T.R.Y. - 我们的歌谣.mp3
@@ -260,6 +270,7 @@ Zedd、Selena Gomez - I Want You to Know.flac
 amazarashi - 僕が死のうと思ったのは (Live).mp3
 gigi d'agostino - Lo Sbaglio (Orgoglio Mix).flac
 is孟大宝 - 走马（Cover 陈粒）.mp3
+t.A.T.u. - Loves Me Not.flac
 Álvaro Soler - Sofía.flac
 Александр Буйнов - ВДВ.mp3
 Болдбаатарын Алтанжаргал、Цэвэрцэцэг Д. - Алтан Хундага.flac
@@ -285,6 +296,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 云小朵 - 我的楼兰.flac
 任贤齐 - 伤心太平洋.flac
 任贤齐 - 天涯.flac
+任贤齐 - 对面的女孩看过来.flac
 任贤齐 - 心太软.flac
 任贤齐 - 春天花会开.flac
 任贤齐 - 死不了.flac
@@ -292,6 +304,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 任贤齐 - 还有我.flac
 伍佰 & China Blue - 世界第一等(Live).flac
 伍佰 & China Blue - 再度重相逢.flac
+伍佰 & China Blue - 我会好好的.flac
 伍佰 & China Blue - 挪威的森林.flac
 伍佰 & China Blue - 晚风.flac
 伍佰 & China Blue - 梦醒时分.flac
@@ -340,6 +353,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 刘可 - 寂寞才说爱.flac
 刘德华 - 忘情水(Live).flac
 刘德华 - 练习.flac
+刘若英 - 为爱痴狂 (Single Version).flac
 刘若英 - 后来.flac
 刘若英 - 当爱在靠近.flac
 前冲 - 你说（Cover 十七）.mp3
@@ -351,6 +365,8 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 办桌二人组 - 在心里从此永远有个你.flac
 勒毛措 - 雪域.flac
 勒毛措、旦增加 - 格桑花.mp3
+千百惠 - 走过咖啡屋.flac
+千百顺 - 很任性.flac
 南征北战NZBZ - 我的天空.flac
 卿听盲盒 - 《ONON RIVERSIDE》海木&道力格扬&GOBI PROJECT：Khabtagai ononai ye erye deekhenuur guur，Khazaartaa tavidagha gaa goyol geshengkhe gee (节目).mp3
 叶启田 - 浪子的心情.flac
@@ -382,6 +398,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 大张伟 - 阳光彩虹小白马.flac
 大橋卓弥 - ありがとう.flac
 天空 - 我可以抱你吗-孟根花.flac
+央金兰泽 - 遇上你是我的缘.flac
 威仔、阿夏 - 不爱又何必纠缠.flac
 孙子涵 - 唐人.mp3
 孙悦 - 大家一起来.flac
@@ -448,6 +465,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 张也 - 走进新时代.flac
 张云雷 - 探清水河 (吉他版).flac
 张信哲 - 信仰.flac
+张信哲 - 别怕我伤心.flac
 张信哲 - 过火.flac
 张北北 - 拥抱你离去.flac
 张可儿 - 真心换真情.flac
@@ -474,6 +492,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 张韶涵 - 欧若拉.flac
 张韶涵 - 淋雨一直走.flac
 张韶涵 - 阿刁 (Live).flac
+归来小易 - 风又吹过眼里的愁 (女版).flac
 彭丽媛 - 当那一天来临.flac
 彭佳慧 - 相见恨晚.flac
 彭羚 - 囚鸟.flac
@@ -484,8 +503,10 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 徐怀钰 - 分飞.flac
 徐怀钰 - 踏浪.flac
 徐浩 - 南向.flac
+徐海俏 - 空.flac
 徐良 - 不良.flac
 徐良、Britneylee小暖 - 和平分手.flac
+徐良、孙羽幽 - 七秒钟的记忆.flac
 徐良、小凌 - 坏女孩.flac
 徐良、小凌 - 客官不可以.flac
 徐良、阿悄 - 犯贱.flac
@@ -519,6 +540,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 李上安 - 那年·四季.flac
 李丹书 - 探清水河.flac
 李九七、DJ马哥 - 很带派的越南鼓 (DJ版).flac
+李云霄 - 还乡.flac
 李佳璐 - 无法原谅.flac
 李健 - 传奇.flac
 李克勤 - 护花使者.flac
@@ -582,6 +604,8 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 水木年华 - 一生有你.flac
 水木年华 - 启程.flac
 水木年华 - 在他乡.flac
+水木年华 - 迷乡(忧伤篇).flac
+江智民 - 在我心里从此永远有个你.flac
 江珊 - 梦里水乡.flac
 汤俊 - 精忠报国.mp3
 汪峰 - 光明.flac
@@ -678,6 +702,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 群星 - 没有共产党就没有新中国.mp3
 群星 - 社会主义好.flac
 群星 - 蹦蹦蹦.flac
+群星 - 迷茫的爱.mp3
 聲無哀樂SWAL、龚琳娜、杨的草稿箱 - 江声入旧年.flac
 胡杨林 - 香水有毒.flac
 胡译心 - 成都（女声版）（Cover 赵雷）.mp3
@@ -694,10 +719,12 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 花粥、马雨阳 - 盗将行.flac
 苏勒亚其其格 - 歌在飞.flac
 苏打绿 - 小情歌 (苏打绿版).flac
+苏打绿 - 我好想你 (苏打绿版).flac
 苏运莹 - 野子 (Live).flac
 草蜢 - 半点心.flac
 草蜢 - 失恋阵线联盟.flac
 草蜢 - 宝贝对不起.flac
+莫文蔚 - 寂寞的恋人啊.flac
 莫文蔚 - 盛夏的果实.flac
 菌菌酱 - 走马cover.陈粒.mp3
 萌萌哒天团 - 帝都.flac
@@ -716,6 +743,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 蔡秋凤 - 一步一脚印.flac
 蔡秋凤 - 雨水我问你.flac
 虞霞、李小龙 - 侠客行.mp3
+袁婷 - 风又吹过眼里的愁.mp3
 誓言 - 求佛.flac
 许佳慧 - 预谋.flac
 许冠杰 - 半斤八两.flac
@@ -725,6 +753,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 许巍 - 故乡.flac
 许巍 - 曾经的你.flac
 许巍 - 蓝莲花.flac
+许茹芸 - 独角戏.flac
 许鹤缤 - 我爱这蓝色的海洋.mp3
 谢军 - 心在跳情在烧.flac
 谢军 - 那一夜.flac
@@ -733,6 +762,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 谢春花 - 远辰落身旁.flac
 豆子糖 - 探清水河.flac
 豆子糖 - 探清水河（超长版）.flac
+贵族乐团 - Only Time.flac
 费玉清 - 一剪梅.flac
 费玉清 - 千里之外.flac
 费玉清 - 南屏晚钟.flac
@@ -817,6 +847,18 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 阿牛 - 桃花朵朵开.flac
 阿肆 - 热爱105℃的你.flac
 阿里郎 - 兰花指.flac
+陈一发儿 - 一剪梅.mp3
+陈一发儿 - 但愿人长久.mp3
+陈一发儿 - 历历万乡.mp3
+陈一发儿 - 夜空中最亮的星.mp3
+陈一发儿 - 奇妙能力歌.mp3
+陈一发儿 - 小半.mp3
+陈一发儿 - 情人.mp3
+陈一发儿 - 漠河舞厅.mp3
+陈一发儿 - 童话镇 (1).flac
+陈一发儿 - 童话镇.flac
+陈一发儿 - 走马.mp3
+陈一发儿 - 追梦人.mp3
 陈丽媛、泽旺多吉 - 天籁之爱.flac
 陈冠蒲 - 太多.flac
 陈势安 - 天后.flac
@@ -846,8 +888,10 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 陈粒 - 走马.flac
 陈麦麒 - 青春（2018版）.mp3
 陌雪 - 游山恋 (女生戏腔版).flac
+降央卓玛 - 西海情歌.flac
 陶喆 - 就是爱你.flac
 陶心瑶、Claux - 水之畔.flac
+雷龙、陈美惠 - 在我心里有个你.flac
 霈丹(浪哥) - 世界第一等 (精制版).flac
 青春美少女、罗百吉、宝贝 - i miss you.flac
 青鸟飞鱼 - 此生不换.flac
@@ -866,6 +910,7 @@ is孟大宝 - 走马（Cover 陈粒）.mp3
 顾峰、斯琴高丽 - 犯错.flac
 顾峰、斯琴高丽 - 猜.flac
 马天宇 - 该死的温柔.flac
+高安、杭娇 - 一生无悔.flac
 高安、黑鸭子演唱组 - 红尘情歌.flac
 高橋優 - ヤキモチ.flac
 高耀太 - 불꽃.flac
