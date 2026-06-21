@@ -1,4 +1,4 @@
-总数: 935
+总数: 943
 ----
 A - Something's Going On.flac
 ALEXEMELYA、Maga - Sueta.flac
@@ -79,6 +79,7 @@ DJMuchY - Come On-Come on sexy girl（DJMuchY remix）.flac
 DR阿旺旦巴 - Menchu Bum.mp3
 Daddy Yankee - Dura.flac
 Dan Balan、Tany Vander、Brasco - Lendo Calendo.flac
+Dance Flow - 迷人的危险.flac
 Daniel Powter - Free Loop.flac
 Daze - Superhero (Album Version).flac
 Deep Side - Booty Music.flac
@@ -170,6 +171,7 @@ Michel Teló - Ai Se Eu Te Pego.flac
 Mike Piromporn - กลับคำสาหล่า.flac
 Miley Cyrus - Party in the U.S.A..flac
 Miley Cyrus - We Can't Stop.flac
+Mono Inc.;Joachim Witt;Tilo Wolff;Chris Harms - Children of the Dark.flac
 Movetown - Here Comes The Sun  (Extended Mix).flac
 Movetown、Nana - Lonely (Radio Edit).flac
 Mythos 'N DJ Cosmo - The Heart Of The Ocean.flac
@@ -206,6 +208,7 @@ Poju - Poika Saunoo.flac
 Prezioso、Marvin - Let's Talk About a Man (Radio Version).flac
 Psaxxx - Dead Eyes.flac
 Queen - Bohemian Rhapsody.flac
+R.I.O. - Like I Love You (Money G Radio Edit).flac
 R.I.O. - Like I Love You.flac
 R.I.O.、Nicco - Party Shaker (Video Edit).flac
 REDDJ - By My Side (The Produxer Mix).mp3
@@ -231,6 +234,7 @@ Smile. DK - Golden Sky.flac
 Solid Base - This Is How We Do It.flac
 Starclub - CHIKI CHIKI.flac
 Starclub - CHIKI CHIKI.mp3
+Sweetbox - Chyna Girl.flac
 Sweetbox - Dont Push Me.flac
 Sweety - 樱花草.flac
 T-Pain、Ne-Yo - Turn All the Lights On.flac
@@ -543,6 +547,7 @@ t.A.T.u. - Loves Me Not.flac
 李云霄 - 还乡.flac
 李佳璐 - 无法原谅.flac
 李健 - 传奇.flac
+李克勤 - 一生不变.flac
 李克勤 - 护花使者.flac
 李克勤 - 月半小夜曲.flac
 李克勤 - 红日.flac
@@ -586,6 +591,7 @@ t.A.T.u. - Loves Me Not.flac
 林忆莲 - 为你我受冷风吹.flac
 林志炫 - 你的样子.flac
 林玉英 - 点燃一根烟.flac
+柒月 - 往事如烟.mp3
 格格 - 火苗.flac
 桔子 - 19岁时候的歌（Cover 赵雷）.flac
 桔子 - 差三岁（Cover Jam）.flac
@@ -738,6 +744,7 @@ t.A.T.u. - Loves Me Not.flac
 蒋大为 - 敢问路在何方.flac
 蒋大为 - 牡丹之歌.flac
 蓝波 - 你到底有没有爱过我.flac
+蓝波;张池 - 往事如烟.mp3
 蔡依林 - 日不落.flac
 蔡依林、周杰伦 - 布拉格广场.flac
 蔡秋凤 - 一步一脚印.flac
@@ -881,6 +888,7 @@ t.A.T.u. - Loves Me Not.flac
 陈旭 - 哥 只是个传说.flac
 陈明 - 我要找到你.flac
 陈明珍 - 唱山歌.flac
+陈淑桦 - 笑红尘.flac
 陈瑞 - 白狐.mp3
 陈百强 - 偏偏喜欢你.flac
 陈粒 - 历历万乡.mp3
