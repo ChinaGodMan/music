@@ -1,4 +1,4 @@
-总数: 943
+总数: 944
 ----
 A - Something's Going On.flac
 ALEXEMELYA、Maga - Sueta.flac
@@ -401,6 +401,7 @@ t.A.T.u. - Loves Me Not.flac
 大张伟 - 倍儿爽.flac
 大张伟 - 阳光彩虹小白马.flac
 大橋卓弥 - ありがとう.flac
+大海航行靠舵手 - 华语群星.mp3
 天空 - 我可以抱你吗-孟根花.flac
 央金兰泽 - 遇上你是我的缘.flac
 威仔、阿夏 - 不爱又何必纠缠.flac
